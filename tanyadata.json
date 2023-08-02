@@ -1,0 +1,114 @@
+{
+    "days" : [
+        {
+            "day" : "Monday",
+            "subjects" : [
+                {
+                    "name" : "Deep Learning",
+                    "place" : "LT1 Ground Floor",
+                    "time" : "9am-9:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Automation Robo",
+                    "place" : "CR7 1st Floor",
+                    "time" : "10am-10:55pm",
+                    "type" : ""
+                }
+                
+            ]
+        },
+        {
+            "day" : "Tuesday",
+            "subjects" : [
+                {
+                    "name" : "AI",
+                    "place" : "CR12 2nd Floor",
+                    "time" : "2pm-2:55pm",
+                    "type" : ""
+                },
+                {
+                    "name" : "AI Lab",
+                    "place" : "CL8_1 Ground Floor",
+                    "time" : "3pm-4:55am",
+                    "type" : "prof"
+                }
+            ]
+        },
+        {
+            "day" : "Wednesday",
+            "subjects" : [
+                {
+                    "name" : "Deep Learning",
+                    "place" : "LT2 Ground Floor",
+                    "time" : "9am-9:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Automation Robo",
+                    "place" : "CR6 1st Floor",
+                    "time" : "11am-11:55am",
+                    "type" : ""
+                }
+            ]
+        },
+        {
+            "day" : "Thursday",
+            "subjects" : [
+                {
+                    "name" : "Indian Constitution",
+                    "place" : "LT2 Ground Floor",
+                    "time" : "9am-9:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "AI",
+                    "place" : "CR12 2nd Floor",
+                    "time" : "2pm-2:55pm",
+                    "type" : ""
+                },
+                {
+                    "name" : "Comp Nanotech",
+                    "place" : "TR5 2nd Floor",
+                    "time" : "3pm-3:55pm",
+                    "type" : ""
+                }
+            ]
+        },
+        {
+            "day" : "Friday",
+            "subjects" : [
+                {
+                    "name" : "Deep Learning",
+                    "place" : "LT1 Ground Floor",
+                    "time" : "9am-9:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Comp Nanotech",
+                    "place" : "TR5 2nd Floor",
+                    "time" : "2pm-2:55pm",
+                    "type" : ""
+                }
+            ]
+        },
+        {
+            "day" : "Saturday",
+            "subjects" : [
+                {
+                    "name" : "Comp Nanotech",
+                    "place" : "TR5 2nd Floor",
+                    "time" : "9am-9:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Automation Robo",
+                    "place" : "CR7 1st Floor",
+                    "time" : "10am-10:55pm",
+                    "type" : ""
+                }
+            ]
+        }
+    ]
+    
+}

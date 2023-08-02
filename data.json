@@ -1,0 +1,120 @@
+{
+    "days" : [
+        {
+            "day" : "Monday",
+            "subjects" : [
+                {
+                    "name" : "Deep Learning",
+                    "place" : "CR6 1st Floor",
+                    "time" : "9am-9:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Power Structures",
+                    "place" : "CR5 1st Floor",
+                    "time" : "12pm-12:55pm",
+                    "type" : ""
+                },
+                {
+                    "name" : "Crytography Lab",
+                    "place" : "CL8 Ground Floor",
+                    "time" : "3pm-4:55am",
+                    "type" : "prof"
+                }
+                
+            ]
+        },
+        {
+            "day" : "Tuesday",
+            "subjects" : [
+                {
+                    "name" : "Crytography",
+                    "place" : "CR19 4th Floor",
+                    "time" : "2pm-2:55pm",
+                    "type" : ""
+                }
+            ]
+        },
+        {
+            "day" : "Wednesday",
+            "subjects" : [
+                {
+                    "name" : "Deep Learning",
+                    "place" : "CR6 1st Floor",
+                    "time" : "9am-9:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Indian Constitution",
+                    "place" : "CR9 1st Floor",
+                    "time" : "11am-11:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Crytography Lab",
+                    "place" : "CL8 Ground Floor",
+                    "time" : "3pm-4:55am",
+                    "type" : "prof"
+                }
+            ]
+        },
+        {
+            "day" : "Thursday",
+            "subjects" : [
+                {
+                    "name" : "Crytography",
+                    "place" : "CR19 4th Floor",
+                    "time" : "2pm-2:55pm",
+                    "type" : ""
+                },
+                {
+                    "name" : "Comp Nanotech",
+                    "place" : "TR5 2nd Floor",
+                    "time" : "3pm-4:55pm",
+                    "type" : ""
+                }
+            ]
+        },
+        {
+            "day" : "Friday",
+            "subjects" : [
+                {
+                    "name" : "Deep Learning",
+                    "place" : "CR6 1st Floor",
+                    "time" : "9am-9:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Power Structures",
+                    "place" : "CR5 1st Floor",
+                    "time" : "11am-11:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Comp Nanotech",
+                    "place" : "TR5 2nd Floor",
+                    "time" : "2pm-2:55pm",
+                    "type" : ""
+                }
+            ]
+        },
+        {
+            "day" : "Saturday",
+            "subjects" : [
+                {
+                    "name" : "Comp Nanotech",
+                    "place" : "TR5 2nd Floor",
+                    "time" : "9am-9:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Power Structures",
+                    "place" : "CR8 1st Floor",
+                    "time" : "12pm-12:55pm",
+                    "type" : ""
+                }
+            ]
+        }
+    ]
+    
+}
