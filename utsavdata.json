@@ -14,6 +14,18 @@
                     "place" : "CR7 1st Floor",
                     "time" : "10am-10:55am",
                     "type" : ""
+                },
+                {
+                    "name" : "Food Nutrition",
+                    "place" : "CR6 1st Floor",
+                    "time" : "11am-11:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Cryptography Lab",
+                    "place" : "CL9_1 1st Floor",
+                    "time" : "3pm-4:55pm",
+                    "type" : "prof"
                 }
                 
             ]
@@ -22,16 +34,10 @@
             "day" : "Tuesday",
             "subjects" : [
                 {
-                    "name" : "AI",
-                    "place" : "CR12 2nd Floor",
+                    "name" : "Cryptography",
+                    "place" : "CR10 1ST Floor",
                     "time" : "2pm-2:55pm",
                     "type" : ""
-                },
-                {
-                    "name" : "AI Lab",
-                    "place" : "CL8_1 Ground Floor",
-                    "time" : "3pm-4:55pm",
-                    "type" : "prof"
                 }
             ]
         },
@@ -40,8 +46,14 @@
             "subjects" : [
                 {
                     "name" : "Deep Learning",
-                    "place" : "LT2 Ground Floor",
+                    "place" : "LT1 Ground Floor",
                     "time" : "9am-9:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Food Nutrition",
+                    "place" : "CR6 1st Floor",
+                    "time" : "10am-10:55am",
                     "type" : ""
                 },
                 {
@@ -49,6 +61,12 @@
                     "place" : "CR6 1st Floor",
                     "time" : "11am-11:55am",
                     "type" : ""
+                },
+                {
+                    "name" : "Cryptography Lab",
+                    "place" : "CL9_1 1st Floor",
+                    "time" : "3pm-4:55pm",
+                    "type" : "prof"
                 }
             ]
         },
@@ -56,20 +74,14 @@
             "day" : "Thursday",
             "subjects" : [
                 {
-                    "name" : "Indian Constitution",
-                    "place" : "LT2 Ground Floor",
-                    "time" : "9am-9:55am",
-                    "type" : ""
-                },
-                {
-                    "name" : "AI",
-                    "place" : "CR12 2nd Floor",
+                    "name" : "Cryptography",
+                    "place" : "CR10 1ST Floor",
                     "time" : "2pm-2:55pm",
                     "type" : ""
                 },
                 {
-                    "name" : "Comp Nanotech",
-                    "place" : "TR5 2nd Floor",
+                    "name" : "Indian Constitution",
+                    "place" : "LT2 Ground Floor",
                     "time" : "3pm-3:55pm",
                     "type" : ""
                 }
@@ -83,12 +95,6 @@
                     "place" : "LT1 Ground Floor",
                     "time" : "9am-9:55am",
                     "type" : ""
-                },
-                {
-                    "name" : "Comp Nanotech",
-                    "place" : "TR5 2nd Floor",
-                    "time" : "2pm-2:55pm",
-                    "type" : ""
                 }
             ]
         },
@@ -96,15 +102,15 @@
             "day" : "Saturday",
             "subjects" : [
                 {
-                    "name" : "Comp Nanotech",
-                    "place" : "TR5 2nd Floor",
-                    "time" : "9am-9:55am",
-                    "type" : ""
-                },
-                {
                     "name" : "Automation Robo",
                     "place" : "CR7 1st Floor",
                     "time" : "10am-10:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Food Nutrition",
+                    "place" : "CR6 1st Floor",
+                    "time" : "11am-11:55am",
                     "type" : ""
                 }
             ]
