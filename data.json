@@ -16,7 +16,7 @@
                     "type" : ""
                 },
                 {
-                    "name" : "Crytography Lab",
+                    "name" : "Cryptography Lab",
                     "place" : "CL8 Ground Floor",
                     "time" : "3pm-4:55am",
                     "type" : "prof"
@@ -28,8 +28,8 @@
             "day" : "Tuesday",
             "subjects" : [
                 {
-                    "name" : "Crytography",
-                    "place" : "CR19 4th Floor",
+                    "name" : "Cryptography",
+                    "place" : "CR12 2nd Floor",
                     "time" : "2pm-2:55pm",
                     "type" : ""
                 }
@@ -49,12 +49,6 @@
                     "place" : "CR9 1st Floor",
                     "time" : "11am-11:55am",
                     "type" : ""
-                },
-                {
-                    "name" : "Crytography Lab",
-                    "place" : "CL8 Ground Floor",
-                    "time" : "3pm-4:55am",
-                    "type" : "prof"
                 }
             ]
         },
@@ -62,14 +56,14 @@
             "day" : "Thursday",
             "subjects" : [
                 {
-                    "name" : "Crytography",
-                    "place" : "CR19 4th Floor",
+                    "name" : "Cryptography",
+                    "place" : "CR12 2nd Floor",
                     "time" : "2pm-2:55pm",
                     "type" : ""
                 },
                 {
                     "name" : "Comp Nanotech",
-                    "place" : "TR5 2nd Floor",
+                    "place" : "CR12 2nd Floor",
                     "time" : "3pm-4:55pm",
                     "type" : ""
                 }
@@ -92,7 +86,7 @@
                 },
                 {
                     "name" : "Comp Nanotech",
-                    "place" : "TR5 2nd Floor",
+                    "place" : "CR12 2nd Floor",
                     "time" : "2pm-2:55pm",
                     "type" : ""
                 }
@@ -103,7 +97,7 @@
             "subjects" : [
                 {
                     "name" : "Comp Nanotech",
-                    "place" : "TR5 2nd Floor",
+                    "place" : "CR12 2nd Floor",
                     "time" : "9am-9:55am",
                     "type" : ""
                 },

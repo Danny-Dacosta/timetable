@@ -18,16 +18,9 @@
                 {
                     "name" : "Food Nutrition",
                     "place" : "CR6 1st Floor",
-                    "time" : "11am-11:55am",
+                    "time" : "12pm-12:55pm",
                     "type" : ""
-                },
-                {
-                    "name" : "Cryptography Lab",
-                    "place" : "CL9_1 1st Floor",
-                    "time" : "3pm-4:55pm",
-                    "type" : "prof"
                 }
-                
             ]
         },
         {
@@ -46,7 +39,7 @@
             "subjects" : [
                 {
                     "name" : "Deep Learning",
-                    "place" : "LT1 Ground Floor",
+                    "place" : "LT2 Ground Floor",
                     "time" : "9am-9:55am",
                     "type" : ""
                 },
